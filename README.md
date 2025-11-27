@@ -19,7 +19,7 @@ The project includes:
 - Provide insights useful for business decision-making  
 
 
-## 🔧 Tech Stack
+##  Tech Stack
 - **Python**
 - **Pandas**
 - **NumPy**
@@ -59,6 +59,4 @@ The project includes:
 - Top 10 Products Chart  
 
 
-
-
-If you like this project, ⭐ star the repo!
+If you like this project, star the repo!
