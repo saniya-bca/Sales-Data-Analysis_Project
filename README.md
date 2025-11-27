@@ -1,6 +1,6 @@
 #  Sales Data Analysis Project
 
-##  Project Overview
+
 This project focuses on analyzing sales data to uncover key business insights.  
 Using Python-based data analysis techniques, the goal is to understand trends, customer behavior, revenue patterns, and overall sales performance.  
 
